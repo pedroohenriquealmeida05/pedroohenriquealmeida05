@@ -4,21 +4,23 @@
 Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, estou cursando Engenharia de Computação pelo UNISAL (Centro Universitário Salesiano de São Paulo). Sempre fui interessado pelo mundo da tecnologia e entender como as coisas de fato funcionam e estou sempre aberto a novos desafios que possam surgir.
 
 <p align="left">
-    </a>
-    <a href="https://github.com/pedroohenriquealmeida05?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pedroohenriquealmeida05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</a> 
-    <a href="https://github.com/pedroohenriquealmeida05?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pedroohenriquealmeida05?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+   <div>
+<a href="mailto:pedroohenriquealmeida05@gmail.com">
+<img 
+loading="lazy" 
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+target="_blank"
+>
+</a>
+<a href="https://www.linkedin.com/in/pedroalmeida05/" 
+target="_blank">
+<img 
+loading="lazy" 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+target="_blank">
+</a>
+    </div>
+<br>
 </p>
 
 ---
@@ -68,28 +70,6 @@ Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, e
 
 <br/>
 <br/>
-
----
-
-### 📩 Contatos
-
-<div>
-<a href="mailto:pedroohenriquealmeida05@gmail.com">
-<img 
-loading="lazy" 
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-target="_blank"
->
-</a>
-<a href="https://www.linkedin.com/in/pedroalmeida05/" 
-target="_blank">
-<img 
-loading="lazy" 
-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-target="_blank">
-</a>
-</div>
-<br>
 
 ---
 
