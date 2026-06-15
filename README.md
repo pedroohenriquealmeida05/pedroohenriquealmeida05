@@ -1,16 +1,115 @@
-<!--## Hi there 👋
+# 👨🏽‍💻 Pedro Henrique
+**`Desenvolvedor Back-end em formação`**
 
-<!--
-**pedroohenriquealmeida05/pedroohenriquealmeida05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, estou cursando Engenharia de Computação pelo UNISAL (Centro Universitário Salesiano de São Paulo). Sempre fui interessado pelo mundo da tecnologia e entender como as coisas de fato funcionam e estou sempre aberto a novos desafios que possam surgir.
 
-Here are some ideas to get you started:
+<p align="left">
+    </a>
+    <a href="https://github.com/pedroohenriquealmeida05?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/pedroohenriquealmeida05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</a> 
+    <a href="https://github.com/pedroohenriquealmeida05?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/pedroohenriquealmeida05?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"          
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📩 Contatos
+
+<div>
+<a href="mailto:pedroohenriquealmeida05@gmail.com?subject=Contato%20de%20luiza846&body=Olá%20luiza846,%0D%0A%0D%0A">
+<img 
+loading="lazy" 
+src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+target="_blank"
+>
+</a>
+<a href="https://www.linkedin.com/in/pedroalmeida05/" 
+target="_blank">
+<img 
+loading="lazy" 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+target="_blank">
+</a>
+</div>
+<br>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedroohenriquealmeida05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroohenriquealmeida05&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+  />
+
+</p>
