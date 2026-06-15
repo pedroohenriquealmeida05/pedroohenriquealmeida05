@@ -74,7 +74,7 @@ Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, e
 ### 📩 Contatos
 
 <div>
-<a href="mailto:pedroohenriquealmeida05@gmail.com?subject=Contato%20de%20luiza846&body=Olá%20luiza846,%0D%0A%0D%0A">
+<a href="mailto:pedroohenriquealmeida05@gmail.com">
 <img 
 loading="lazy" 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
