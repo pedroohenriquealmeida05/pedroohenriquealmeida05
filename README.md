@@ -27,6 +27,14 @@ Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, e
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
+/>
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="30px" 
@@ -35,11 +43,11 @@ Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, e
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -56,14 +64,6 @@ Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
