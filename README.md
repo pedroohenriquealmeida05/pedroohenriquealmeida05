@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Pedro Henrique
 **`Desenvolvedor Back-end em formação`**
 
-Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, estou cursando Engenharia de Computação pelo UNISAL (Centro Universitário Salesiano de São Paulo). Sempre fui interessado pelo mundo da tecnologia e entender como as coisas de fato funcionam e estou sempre aberto a novos desafios que possam surgir.
+Me chamo Pedro Henrique, tenho 21 anos e sou natural de Lorena-SP. Atualmente, estou cursando Engenharia de Computação pelo UNISAL (Centro Universitário Salesiano de São Paulo). Sempre fui interessado pelo mundo da tecnologia e estou sempre aberto a novos desafios que possam surgir.
 
 <p align="left">
    <div>
