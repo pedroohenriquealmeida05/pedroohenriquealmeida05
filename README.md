@@ -114,8 +114,6 @@ target="_blank">
 
 </p>
 
----
-
 <div align-center>
 
 <img src="https://raw.githubusercontent.com/pedroohenriquealmeida05/pedroohenriquealmeida05/output/snake.svg" alt="Snake animation" />
