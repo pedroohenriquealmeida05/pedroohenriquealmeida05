@@ -79,6 +79,6 @@ target="_blank">
 
 <div align-center>
 
-<img src="https://raw.githubusercontent.com/pedroohenriquealmeida05/phalmeida05/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phalmeida05/phalmeida05/output/snake.svg" alt="Snake animation" />
 
 </div>
